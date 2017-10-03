@@ -9,3 +9,11 @@
   border: none;
   box-shadow: none;
 }
+
+.black-background {
+  background-color: #151515;
+  color: whitesmoke;
+  height: 200px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
